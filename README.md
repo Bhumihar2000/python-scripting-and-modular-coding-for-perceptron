@@ -1,0 +1,1 @@
+## In this project we are implementing the Perceptron using the python scripting and modular coding
